@@ -7,7 +7,6 @@ var app=new koa();
 
 //express写法
 //app.use(function(req,res){
-//
 //    res.send('返回数据')
 //})
 
