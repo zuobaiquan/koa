@@ -1,7 +1,3 @@
-/**
- * Created by Administrator on 2018/3/12 0012.
- */
-
 var koa =require('koa');
 var app=new koa();
 
@@ -21,7 +17,3 @@ app.use( async (ctx)=>{
 })
 
 app.listen(3000);
-
-
-
-
